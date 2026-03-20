@@ -81,7 +81,7 @@
           <div class="skill-card">JavaScript ES6+</div>
           <div class="skill-card">Vue3</div>
           <div class="skill-card">Vite</div>
-          <div class="skill-card">Pinia</div>
+          <div class="skill-card">Java</div>
           <div class="skill-card">VueRouter</div>
           <div class="skill-card">TailwindCSS</div>
         </div>
